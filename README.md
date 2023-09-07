@@ -38,8 +38,11 @@ identity verification which is very crucial than other metrics.
 
 # Insights
 . Booking acceptance should be improved for Non-Super Hosts.
+
 . Host should have a profile pic and verified identity.
+
 . Non-Super Host's performance should be improved by considering Ratings.
+
 . The Company can plan for training programs for other variety of metrics to improve performance of host.
 
 # Dashboard creation for china host behaviour analysis
@@ -53,8 +56,11 @@ CHINA HOST_BEHAVIOUR DASHBOARD
 # Challenges & Learnings
 
 . Faced issues while importing the Datasets into SQL due to inappropriate datatype.
+
 . Taking string data into consideration.
+
 . Joining tasks that are individually assigned.
+
 . Team management
 
 
