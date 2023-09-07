@@ -42,6 +42,14 @@ identity verification which is very crucial than other metrics.
 . Non-Super Host's performance should be improved by considering Ratings.
 . The Company can plan for training programs for other variety of metrics to improve performance of host.
 
+# Dashboard creation for china host behaviour analysis
+
+CHINA HOST_BEHAVIOUR DASHBOARD																		
+																		
+																		
+![image](https://github.com/avi251295/host-behavior-analysis/assets/120267658/a961516e-8fd2-455f-8ef3-53d487a524d5)
+
+
 # Challenges & Learnings
 
 . Faced issues while importing the Datasets into SQL due to inappropriate datatype.
