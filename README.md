@@ -1,23 +1,28 @@
 # host-behavior-analysis
-Introduction
+## Introduction
 This project aims to provide valuable insights into host behavior within the hospitality industry. By uncovering key differences between super hosts and other hosts and offering actionable recommendations for improvement, we contribute to the enhancement of the hosting experience and the success of hosts in this dynamic industry.
 
-Problem Statement
+## Problem Statement
 The Property Rental Company is facing challenges in increasing its business and attracting more customers. They are looking for effective strategies to expand their operations and enhance their market presence.
 
-Solution
+## Solution
 Analyzing the behavior of different hosts to gain insights on a variety of metrics.
 
-Strategy
+## Strategy
 The project involved combining different datasets using SQL and conducting analysis to generate meaningful insights. The findings were then presented in a visually appealing report created in Excel.
 
-Performance Metrics
-Identity Verified
-Response Times
-Bookings Acceptance Rate
-Number of listings
-Property Type
-Ratings
+## Performance Metrics
+.Identity Verified
+
+.Response Times
+
+.Bookings Acceptance Rate
+
+.Number of listings
+
+.Property Type
+
+.Ratings
 
 # Exploratory Data Analysis
 
