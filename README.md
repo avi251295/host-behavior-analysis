@@ -5,7 +5,7 @@ This project aims to provide valuable insights into host behavior within the hos
 ## Problem Statement
 The Property Rental Company is facing challenges in increasing its business and attracting more customers. They are looking for effective strategies to expand their operations and enhance their market presence.
 
-## Solution
+## Aim to Solution
 Analyzing the behavior of different hosts to gain insights on a variety of metrics.
 
 ## Strategy
@@ -66,6 +66,16 @@ in shaghai city both type of host have same performance for each metrices.
 Here we can see that the Super host plays very well in response rate and booking acceptance rate in each of the city and
 identity verification which is very crucial than other metrics.
 
+![image](https://github.com/avi251295/host-behavior-analysis/assets/120267658/5547037c-5de8-46f4-a8b0-97c190f48f5c)
+
+Here we can see that Superhost have more positive comment in sanghai as well as bejing which means they are more responsible with their responsibility and
+and behave positively toward their services.
+
+![image](https://github.com/avi251295/host-behavior-analysis/assets/120267658/b929ad54-a6ae-48cf-a149-20e83f0273ad)
+
+Here shanghai superhost have more number of large property type which means superhost offer wide variety of different types
+of property for rent.
+
 
 # Challenges & Learnings
 
@@ -76,6 +86,11 @@ identity verification which is very crucial than other metrics.
 . Joining tasks that are individually assigned.
 
 . Team management
+
+## Future Scope
+. One can get idea how to analyse the host behaviour of different industry.
+
+. Help To understand which area is well performed by a particular host.
 
 
 
