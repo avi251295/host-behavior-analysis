@@ -51,27 +51,31 @@ The methodology for creating a dashboard based on the provided CSV data can invo
 CHINA HOST_BEHAVIOUR DASHBOARD																		
 																		
 																		
-![image](https://github.com/avi251295/host-behavior-analysis/assets/120267658/a961516e-8fd2-455f-8ef3-53d487a524d5)
+![Screenshot (498)](https://github.com/user-attachments/assets/d86d6f52-fe4c-41ff-b7b9-02b20a7ffc51)
+
 
 ## Visulization
 
-![image](https://github.com/avi251295/host-behavior-analysis/assets/120267658/5e0f4343-559e-4ea9-a662-a661eac61fa5)
+![Screenshot (499)](https://github.com/user-attachments/assets/d2cf7570-a720-4faa-a9c4-c735f1b8035e)
+
 
 
 Here we can see that the Super host not plays very well in response rate and booking acceptance rate in shanghai but 
 in shaghai city both type of host have same performance for each metrices.
 
-![image](https://github.com/avi251295/host-behavior-analysis/assets/120267658/3ed63906-fbe5-42a8-be46-dcf6f97f53e0)
+![Screenshot (500)](https://github.com/user-attachments/assets/59f369ba-dee0-42f6-a382-34f7a2d0f42a)
 
-Here we can see that the Super host plays very well in response rate and booking acceptance rate in each of the city and
-identity verification which is very crucial than other metrics.
 
-![image](https://github.com/avi251295/host-behavior-analysis/assets/120267658/5547037c-5de8-46f4-a8b0-97c190f48f5c)
+Here we can see that the Non-Super host plays very well in listining and  identity verification in each of the city.
+
+![Screenshot (501)](https://github.com/user-attachments/assets/3b9863bb-7d6b-4412-ae35-4be5426a936f)
+
 
 Here we can see that Superhost have more positive comment in sanghai as well as bejing which means they are more responsible with their responsibility and
 and behave positively toward their services.
 
-![image](https://github.com/avi251295/host-behavior-analysis/assets/120267658/b929ad54-a6ae-48cf-a149-20e83f0273ad)
+![Screenshot (502)](https://github.com/user-attachments/assets/f5b979ae-803a-4bea-8868-8e7c6b822f39)
+
 
 Here shanghai superhost have more number of large property type which means superhost offer wide variety of different types
 of property for rent.
