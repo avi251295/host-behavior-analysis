@@ -60,8 +60,7 @@ CHINA HOST_BEHAVIOUR DASHBOARD
 
 
 
-Here we can see that the Super host not plays very well in response rate and booking acceptance rate in shanghai but 
-in shaghai city both type of host have same performance for each metrices.
+Here we can see that the Super host plays very well in response rate and booking acceptance rate in both city.
 
 ![Screenshot (500)](https://github.com/user-attachments/assets/59f369ba-dee0-42f6-a382-34f7a2d0f42a)
 
